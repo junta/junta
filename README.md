@@ -1,10 +1,14 @@
 ### Hi there 👋
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=junta&count_private=true&show_icons=true" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=junta&layout=compact" />
-</a>
+<p align="">
+    <img
+        height="180em"
+        src="https://github-readme-stats.vercel.app/api?username=junta&count_private=true&show_icons=true"
+    />
+    <img
+        height="180em"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=junta&layout=compact"
+    />
+</p>
 <!--
 **junta/junta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
